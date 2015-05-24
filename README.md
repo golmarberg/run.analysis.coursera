@@ -14,3 +14,5 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 created "Full_Data" and "Tidy_Data" files. use the following packages" plyr,dplyr,reshape2. code calls from library but does not install.
+
+tor reproduce results, source script into R
